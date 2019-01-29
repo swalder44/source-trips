@@ -1,0 +1,103 @@
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\SoapCore-master\SoapCore-master\samples\Client\bin\Debug\netcoreapp2.0\Client.deps.json
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\SoapCore-master\SoapCore-master\samples\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.json
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\SoapCore-master\SoapCore-master\samples\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.dev.json
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\SoapCore-master\SoapCore-master\samples\Client\bin\Debug\netcoreapp2.0\Client.dll
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\SoapCore-master\SoapCore-master\samples\Client\bin\Debug\netcoreapp2.0\Client.pdb
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\SoapCore-master\SoapCore-master\samples\Client\bin\Debug\netcoreapp2.0\Models.dll
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\SoapCore-master\SoapCore-master\samples\Client\bin\Debug\netcoreapp2.0\Server.dll
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\SoapCore-master\SoapCore-master\samples\Client\bin\Debug\netcoreapp2.0\SoapCore.dll
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\SoapCore-master\SoapCore-master\samples\Client\bin\Debug\netcoreapp2.0\Server.pdb
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\SoapCore-master\SoapCore-master\samples\Client\bin\Debug\netcoreapp2.0\Models.pdb
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\SoapCore-master\SoapCore-master\samples\Client\bin\Debug\netcoreapp2.0\SoapCore.pdb
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\SoapCore-master\SoapCore-master\samples\Client\obj\Debug\netcoreapp2.0\Client.csprojResolveAssemblyReference.cache
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\SoapCore-master\SoapCore-master\samples\Client\obj\Debug\netcoreapp2.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\SoapCore-master\SoapCore-master\samples\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfoInputs.cache
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\SoapCore-master\SoapCore-master\samples\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfo.cs
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\SoapCore-master\SoapCore-master\samples\Client\obj\Debug\netcoreapp2.0\Client.dll
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\SoapCore-master\SoapCore-master\samples\Client\obj\Debug\netcoreapp2.0\Client.pdb
+C:\Users\cherednikov\Desktop\SoapCore-master\samples\Client\bin\Debug\netcoreapp2.0\Client.deps.json
+C:\Users\cherednikov\Desktop\SoapCore-master\samples\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.json
+C:\Users\cherednikov\Desktop\SoapCore-master\samples\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.dev.json
+C:\Users\cherednikov\Desktop\SoapCore-master\samples\Client\bin\Debug\netcoreapp2.0\Client.dll
+C:\Users\cherednikov\Desktop\SoapCore-master\samples\Client\bin\Debug\netcoreapp2.0\Client.pdb
+C:\Users\cherednikov\Desktop\SoapCore-master\samples\Client\bin\Debug\netcoreapp2.0\Models.dll
+C:\Users\cherednikov\Desktop\SoapCore-master\samples\Client\bin\Debug\netcoreapp2.0\Server.dll
+C:\Users\cherednikov\Desktop\SoapCore-master\samples\Client\bin\Debug\netcoreapp2.0\SoapCore.dll
+C:\Users\cherednikov\Desktop\SoapCore-master\samples\Client\bin\Debug\netcoreapp2.0\Server.pdb
+C:\Users\cherednikov\Desktop\SoapCore-master\samples\Client\bin\Debug\netcoreapp2.0\Models.pdb
+C:\Users\cherednikov\Desktop\SoapCore-master\samples\Client\bin\Debug\netcoreapp2.0\SoapCore.pdb
+C:\Users\cherednikov\Desktop\SoapCore-master\samples\Client\obj\Debug\netcoreapp2.0\Client.csprojResolveAssemblyReference.cache
+C:\Users\cherednikov\Desktop\SoapCore-master\samples\Client\obj\Debug\netcoreapp2.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\cherednikov\Desktop\SoapCore-master\samples\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfoInputs.cache
+C:\Users\cherednikov\Desktop\SoapCore-master\samples\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfo.cs
+C:\Users\cherednikov\Desktop\SoapCore-master\samples\Client\obj\Debug\netcoreapp2.0\Client.dll
+C:\Users\cherednikov\Desktop\SoapCore-master\samples\Client\obj\Debug\netcoreapp2.0\Client.pdb
+C:\Users\cherednikov\Desktop\SoapCore-master2222\samples\Client\bin\Debug\netcoreapp2.0\Client.deps.json
+C:\Users\cherednikov\Desktop\SoapCore-master2222\samples\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.json
+C:\Users\cherednikov\Desktop\SoapCore-master2222\samples\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.dev.json
+C:\Users\cherednikov\Desktop\SoapCore-master2222\samples\Client\bin\Debug\netcoreapp2.0\Client.dll
+C:\Users\cherednikov\Desktop\SoapCore-master2222\samples\Client\bin\Debug\netcoreapp2.0\Client.pdb
+C:\Users\cherednikov\Desktop\SoapCore-master2222\samples\Client\bin\Debug\netcoreapp2.0\Models.dll
+C:\Users\cherednikov\Desktop\SoapCore-master2222\samples\Client\bin\Debug\netcoreapp2.0\Server.dll
+C:\Users\cherednikov\Desktop\SoapCore-master2222\samples\Client\bin\Debug\netcoreapp2.0\SoapCore.dll
+C:\Users\cherednikov\Desktop\SoapCore-master2222\samples\Client\bin\Debug\netcoreapp2.0\Server.pdb
+C:\Users\cherednikov\Desktop\SoapCore-master2222\samples\Client\bin\Debug\netcoreapp2.0\Models.pdb
+C:\Users\cherednikov\Desktop\SoapCore-master2222\samples\Client\bin\Debug\netcoreapp2.0\SoapCore.pdb
+C:\Users\cherednikov\Desktop\SoapCore-master2222\samples\Client\obj\Debug\netcoreapp2.0\Client.csprojResolveAssemblyReference.cache
+C:\Users\cherednikov\Desktop\SoapCore-master2222\samples\Client\obj\Debug\netcoreapp2.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\cherednikov\Desktop\SoapCore-master2222\samples\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfoInputs.cache
+C:\Users\cherednikov\Desktop\SoapCore-master2222\samples\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfo.cs
+C:\Users\cherednikov\Desktop\SoapCore-master2222\samples\Client\obj\Debug\netcoreapp2.0\Client.dll
+C:\Users\cherednikov\Desktop\SoapCore-master2222\samples\Client\obj\Debug\netcoreapp2.0\Client.pdb
+C:\Users\cherednikov\Desktop\ServClient\Client\bin\Debug\netcoreapp2.0\Client.deps.json
+C:\Users\cherednikov\Desktop\ServClient\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.json
+C:\Users\cherednikov\Desktop\ServClient\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.dev.json
+C:\Users\cherednikov\Desktop\ServClient\Client\bin\Debug\netcoreapp2.0\Client.dll
+C:\Users\cherednikov\Desktop\ServClient\Client\bin\Debug\netcoreapp2.0\Client.pdb
+C:\Users\cherednikov\Desktop\ServClient\Client\bin\Debug\netcoreapp2.0\Models.dll
+C:\Users\cherednikov\Desktop\ServClient\Client\bin\Debug\netcoreapp2.0\Server.dll
+C:\Users\cherednikov\Desktop\ServClient\Client\bin\Debug\netcoreapp2.0\SoapCore.dll
+C:\Users\cherednikov\Desktop\ServClient\Client\bin\Debug\netcoreapp2.0\Server.pdb
+C:\Users\cherednikov\Desktop\ServClient\Client\bin\Debug\netcoreapp2.0\Models.pdb
+C:\Users\cherednikov\Desktop\ServClient\Client\bin\Debug\netcoreapp2.0\SoapCore.pdb
+C:\Users\cherednikov\Desktop\ServClient\Client\obj\Debug\netcoreapp2.0\Client.csprojResolveAssemblyReference.cache
+C:\Users\cherednikov\Desktop\ServClient\Client\obj\Debug\netcoreapp2.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\cherednikov\Desktop\ServClient\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfoInputs.cache
+C:\Users\cherednikov\Desktop\ServClient\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfo.cs
+C:\Users\cherednikov\Desktop\ServClient\Client\obj\Debug\netcoreapp2.0\Client.dll
+C:\Users\cherednikov\Desktop\ServClient\Client\obj\Debug\netcoreapp2.0\Client.pdb
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\Client\bin\Debug\netcoreapp2.0\Client.deps.json
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.json
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.dev.json
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\Client\bin\Debug\netcoreapp2.0\Client.dll
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\Client\bin\Debug\netcoreapp2.0\Client.pdb
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\Client\bin\Debug\netcoreapp2.0\Models.dll
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\Client\bin\Debug\netcoreapp2.0\Server.dll
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\Client\bin\Debug\netcoreapp2.0\SoapCore.dll
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\Client\bin\Debug\netcoreapp2.0\Server.pdb
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\Client\bin\Debug\netcoreapp2.0\Models.pdb
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\Client\bin\Debug\netcoreapp2.0\SoapCore.pdb
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\Client\obj\Debug\netcoreapp2.0\Client.csprojResolveAssemblyReference.cache
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\Client\obj\Debug\netcoreapp2.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfoInputs.cache
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfo.cs
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\Client\obj\Debug\netcoreapp2.0\Client.dll
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\Client\obj\Debug\netcoreapp2.0\Client.pdb
+C:\Users\Администратор\Desktop\ServClient\Client\bin\Debug\netcoreapp2.0\Client.deps.json
+C:\Users\Администратор\Desktop\ServClient\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.json
+C:\Users\Администратор\Desktop\ServClient\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\ServClient\Client\bin\Debug\netcoreapp2.0\Client.dll
+C:\Users\Администратор\Desktop\ServClient\Client\bin\Debug\netcoreapp2.0\Client.pdb
+C:\Users\Администратор\Desktop\ServClient\Client\bin\Debug\netcoreapp2.0\Models.dll
+C:\Users\Администратор\Desktop\ServClient\Client\bin\Debug\netcoreapp2.0\Server.dll
+C:\Users\Администратор\Desktop\ServClient\Client\bin\Debug\netcoreapp2.0\SoapCore.dll
+C:\Users\Администратор\Desktop\ServClient\Client\bin\Debug\netcoreapp2.0\Models.pdb
+C:\Users\Администратор\Desktop\ServClient\Client\bin\Debug\netcoreapp2.0\SoapCore.pdb
+C:\Users\Администратор\Desktop\ServClient\Client\obj\Debug\netcoreapp2.0\Client.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\ServClient\Client\obj\Debug\netcoreapp2.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\ServClient\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\ServClient\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\ServClient\Client\obj\Debug\netcoreapp2.0\Client.csproj.CopyComplete
+C:\Users\Администратор\Desktop\ServClient\Client\obj\Debug\netcoreapp2.0\Client.dll
+C:\Users\Администратор\Desktop\ServClient\Client\obj\Debug\netcoreapp2.0\Client.pdb
+C:\Users\Администратор\Desktop\ServClient\Client\bin\Debug\netcoreapp2.0\Server.pdb

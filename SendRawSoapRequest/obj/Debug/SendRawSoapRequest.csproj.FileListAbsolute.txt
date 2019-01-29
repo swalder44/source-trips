@@ -1,0 +1,28 @@
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\SendRawSoapRequest\obj\Debug\SendRawSoapRequest.csprojResolveAssemblyReference.cache
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\SendRawSoapRequest\obj\Debug\SendRawSoapRequest.csproj.CoreCompileInputs.cache
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\SendRawSoapRequest\bin\Debug\SendRawSoapRequest.exe.config
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\SendRawSoapRequest\bin\Debug\SendRawSoapRequest.exe
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\SendRawSoapRequest\bin\Debug\SendRawSoapRequest.pdb
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\SendRawSoapRequest\obj\Debug\SendRawSoapRequest.exe
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\SendRawSoapRequest\obj\Debug\SendRawSoapRequest.pdb
+C:\Users\cherednikov\Desktop\ServClient\SendRawSoapRequest\bin\Debug\SendRawSoapRequest.exe.config
+C:\Users\cherednikov\Desktop\ServClient\SendRawSoapRequest\bin\Debug\SendRawSoapRequest.exe
+C:\Users\cherednikov\Desktop\ServClient\SendRawSoapRequest\bin\Debug\SendRawSoapRequest.pdb
+C:\Users\cherednikov\Desktop\ServClient\SendRawSoapRequest\obj\Debug\SendRawSoapRequest.csprojResolveAssemblyReference.cache
+C:\Users\cherednikov\Desktop\ServClient\SendRawSoapRequest\obj\Debug\SendRawSoapRequest.csproj.CoreCompileInputs.cache
+C:\Users\cherednikov\Desktop\ServClient\SendRawSoapRequest\obj\Debug\SendRawSoapRequest.exe
+C:\Users\cherednikov\Desktop\ServClient\SendRawSoapRequest\obj\Debug\SendRawSoapRequest.pdb
+C:\Users\Администратор\Desktop\ServClient\SendRawSoapRequest\bin\Debug\SendRawSoapRequest.exe.config
+C:\Users\Администратор\Desktop\ServClient\SendRawSoapRequest\bin\Debug\SendRawSoapRequest.exe
+C:\Users\Администратор\Desktop\ServClient\SendRawSoapRequest\bin\Debug\SendRawSoapRequest.pdb
+C:\Users\Администратор\Desktop\ServClient\SendRawSoapRequest\obj\Debug\SendRawSoapRequest.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\ServClient\SendRawSoapRequest\obj\Debug\SendRawSoapRequest.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\ServClient\SendRawSoapRequest\obj\Debug\SendRawSoapRequest.exe
+C:\Users\Администратор\Desktop\ServClient\SendRawSoapRequest\obj\Debug\SendRawSoapRequest.pdb
+F:\MySQL5_6\Soft_and_arch\ServClient\SendRawSoapRequest\bin\Debug\SendRawSoapRequest.exe.config
+F:\MySQL5_6\Soft_and_arch\ServClient\SendRawSoapRequest\bin\Debug\SendRawSoapRequest.exe
+F:\MySQL5_6\Soft_and_arch\ServClient\SendRawSoapRequest\bin\Debug\SendRawSoapRequest.pdb
+F:\MySQL5_6\Soft_and_arch\ServClient\SendRawSoapRequest\obj\Debug\SendRawSoapRequest.csprojResolveAssemblyReference.cache
+F:\MySQL5_6\Soft_and_arch\ServClient\SendRawSoapRequest\obj\Debug\SendRawSoapRequest.csproj.CoreCompileInputs.cache
+F:\MySQL5_6\Soft_and_arch\ServClient\SendRawSoapRequest\obj\Debug\SendRawSoapRequest.exe
+F:\MySQL5_6\Soft_and_arch\ServClient\SendRawSoapRequest\obj\Debug\SendRawSoapRequest.pdb

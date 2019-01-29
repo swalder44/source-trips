@@ -1,0 +1,17 @@
+C:\Users\cherednikov\Desktop\ServClient\ServClient\bin\Debug\ServClient.exe.config
+C:\Users\cherednikov\Desktop\ServClient\ServClient\bin\Debug\ServClient.exe
+C:\Users\cherednikov\Desktop\ServClient\ServClient\bin\Debug\ServClient.pdb
+C:\Users\cherednikov\Desktop\ServClient\ServClient\bin\Debug\MySql.Data.dll
+C:\Users\cherednikov\Desktop\ServClient\ServClient\obj\Debug\ServClient.csprojResolveAssemblyReference.cache
+C:\Users\cherednikov\Desktop\ServClient\ServClient\obj\Debug\ServClient.csproj.CoreCompileInputs.cache
+C:\Users\cherednikov\Desktop\ServClient\ServClient\obj\Debug\ServClient.exe
+C:\Users\cherednikov\Desktop\ServClient\ServClient\obj\Debug\ServClient.pdb
+C:\Users\Администратор\Desktop\ServClient\ServClient\bin\Debug\ServClient.exe.config
+C:\Users\Администратор\Desktop\ServClient\ServClient\bin\Debug\ServClient.exe
+C:\Users\Администратор\Desktop\ServClient\ServClient\bin\Debug\ServClient.pdb
+C:\Users\Администратор\Desktop\ServClient\ServClient\bin\Debug\MySql.Data.dll
+C:\Users\Администратор\Desktop\ServClient\ServClient\obj\Debug\ServClient.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\ServClient\ServClient\obj\Debug\ServClient.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\ServClient\ServClient\obj\Debug\ServClient.csproj.CopyComplete
+C:\Users\Администратор\Desktop\ServClient\ServClient\obj\Debug\ServClient.exe
+C:\Users\Администратор\Desktop\ServClient\ServClient\obj\Debug\ServClient.pdb

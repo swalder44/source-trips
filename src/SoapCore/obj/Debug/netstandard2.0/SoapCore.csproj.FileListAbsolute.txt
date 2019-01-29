@@ -1,0 +1,63 @@
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\SoapCore-master\SoapCore-master\src\SoapCore\bin\Debug\netstandard2.0\SoapCore.deps.json
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\SoapCore-master\SoapCore-master\src\SoapCore\bin\Debug\netstandard2.0\SoapCore.dll
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\SoapCore-master\SoapCore-master\src\SoapCore\bin\Debug\netstandard2.0\SoapCore.pdb
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\SoapCore-master\SoapCore-master\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.csprojResolveAssemblyReference.cache
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\SoapCore-master\SoapCore-master\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.csproj.CoreCompileInputs.cache
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\SoapCore-master\SoapCore-master\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.AssemblyInfoInputs.cache
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\SoapCore-master\SoapCore-master\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.AssemblyInfo.cs
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\SoapCore-master\SoapCore-master\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.dll
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\SoapCore-master\SoapCore-master\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.pdb
+C:\Users\cherednikov\Desktop\SoapCore-master\src\SoapCore\bin\Debug\netstandard2.0\SoapCore.deps.json
+C:\Users\cherednikov\Desktop\SoapCore-master\src\SoapCore\bin\Debug\netstandard2.0\SoapCore.dll
+C:\Users\cherednikov\Desktop\SoapCore-master\src\SoapCore\bin\Debug\netstandard2.0\SoapCore.pdb
+C:\Users\cherednikov\Desktop\SoapCore-master\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.csprojResolveAssemblyReference.cache
+C:\Users\cherednikov\Desktop\SoapCore-master\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.csproj.CoreCompileInputs.cache
+C:\Users\cherednikov\Desktop\SoapCore-master\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.AssemblyInfoInputs.cache
+C:\Users\cherednikov\Desktop\SoapCore-master\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.AssemblyInfo.cs
+C:\Users\cherednikov\Desktop\SoapCore-master\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.dll
+C:\Users\cherednikov\Desktop\SoapCore-master\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.pdb
+C:\Users\cherednikov\Desktop\SoapCore-master2222\src\SoapCore\bin\Debug\netstandard2.0\SoapCore.deps.json
+C:\Users\cherednikov\Desktop\SoapCore-master2222\src\SoapCore\bin\Debug\netstandard2.0\SoapCore.dll
+C:\Users\cherednikov\Desktop\SoapCore-master2222\src\SoapCore\bin\Debug\netstandard2.0\SoapCore.pdb
+C:\Users\cherednikov\Desktop\SoapCore-master2222\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.csprojResolveAssemblyReference.cache
+C:\Users\cherednikov\Desktop\SoapCore-master2222\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.csproj.CoreCompileInputs.cache
+C:\Users\cherednikov\Desktop\SoapCore-master2222\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.AssemblyInfoInputs.cache
+C:\Users\cherednikov\Desktop\SoapCore-master2222\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.AssemblyInfo.cs
+C:\Users\cherednikov\Desktop\SoapCore-master2222\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.dll
+C:\Users\cherednikov\Desktop\SoapCore-master2222\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.pdb
+C:\Users\cherednikov\Desktop\ServClient\src\SoapCore\bin\Debug\netstandard2.0\SoapCore.deps.json
+C:\Users\cherednikov\Desktop\ServClient\src\SoapCore\bin\Debug\netstandard2.0\SoapCore.dll
+C:\Users\cherednikov\Desktop\ServClient\src\SoapCore\bin\Debug\netstandard2.0\SoapCore.pdb
+C:\Users\cherednikov\Desktop\ServClient\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.csproj.CoreCompileInputs.cache
+C:\Users\cherednikov\Desktop\ServClient\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.AssemblyInfoInputs.cache
+C:\Users\cherednikov\Desktop\ServClient\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.AssemblyInfo.cs
+C:\Users\cherednikov\Desktop\ServClient\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.dll
+C:\Users\cherednikov\Desktop\ServClient\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.pdb
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\src\SoapCore\bin\Debug\netstandard2.0\SoapCore.deps.json
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\src\SoapCore\bin\Debug\netstandard2.0\SoapCore.dll
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\src\SoapCore\bin\Debug\netstandard2.0\SoapCore.pdb
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.csprojResolveAssemblyReference.cache
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.csproj.CoreCompileInputs.cache
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.AssemblyInfoInputs.cache
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.AssemblyInfo.cs
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.dll
+C:\Users\cheykin\Documents\Visual Studio 2017\Projects\ServClient\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.pdb
+C:\Users\cherednikov\Desktop\ServClient\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\ServClient\src\SoapCore\bin\Debug\netstandard2.0\SoapCore.deps.json
+C:\Users\Администратор\Desktop\ServClient\src\SoapCore\bin\Debug\netstandard2.0\SoapCore.dll
+C:\Users\Администратор\Desktop\ServClient\src\SoapCore\bin\Debug\netstandard2.0\SoapCore.pdb
+C:\Users\Администратор\Desktop\ServClient\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\ServClient\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\ServClient\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\ServClient\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\ServClient\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.dll
+C:\Users\Администратор\Desktop\ServClient\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.pdb
+F:\MySQL5_6\Soft_and_arch\ServClient\src\SoapCore\bin\Debug\netstandard2.0\SoapCore.deps.json
+F:\MySQL5_6\Soft_and_arch\ServClient\src\SoapCore\bin\Debug\netstandard2.0\SoapCore.dll
+F:\MySQL5_6\Soft_and_arch\ServClient\src\SoapCore\bin\Debug\netstandard2.0\SoapCore.pdb
+F:\MySQL5_6\Soft_and_arch\ServClient\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.csprojResolveAssemblyReference.cache
+F:\MySQL5_6\Soft_and_arch\ServClient\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.csproj.CoreCompileInputs.cache
+F:\MySQL5_6\Soft_and_arch\ServClient\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.AssemblyInfoInputs.cache
+F:\MySQL5_6\Soft_and_arch\ServClient\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.AssemblyInfo.cs
+F:\MySQL5_6\Soft_and_arch\ServClient\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.dll
+F:\MySQL5_6\Soft_and_arch\ServClient\src\SoapCore\obj\Debug\netstandard2.0\SoapCore.pdb
