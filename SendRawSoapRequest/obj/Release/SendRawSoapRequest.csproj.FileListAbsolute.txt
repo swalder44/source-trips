@@ -1,7 +1,0 @@
-C:\Users\cherednikov\Desktop\ServClient\SendRawSoapRequest\bin\Release\SendRawSoapRequest.exe.config
-C:\Users\cherednikov\Desktop\ServClient\SendRawSoapRequest\bin\Release\SendRawSoapRequest.exe
-C:\Users\cherednikov\Desktop\ServClient\SendRawSoapRequest\bin\Release\SendRawSoapRequest.pdb
-C:\Users\cherednikov\Desktop\ServClient\SendRawSoapRequest\obj\Release\SendRawSoapRequest.csprojResolveAssemblyReference.cache
-C:\Users\cherednikov\Desktop\ServClient\SendRawSoapRequest\obj\Release\SendRawSoapRequest.csproj.CoreCompileInputs.cache
-C:\Users\cherednikov\Desktop\ServClient\SendRawSoapRequest\obj\Release\SendRawSoapRequest.exe
-C:\Users\cherednikov\Desktop\ServClient\SendRawSoapRequest\obj\Release\SendRawSoapRequest.pdb
